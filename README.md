@@ -1,4 +1,5 @@
-# This is a facial recognition model, and the following is a file guide.\
+# Facial recognition model
+This is a facial recognition model, and the following is a file guide.\
 
 Model - the summary and testing notebook for the final model\
 Design - learning pipeline of the model\
